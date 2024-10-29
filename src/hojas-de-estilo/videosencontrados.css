@@ -1,0 +1,16 @@
+.videos-encontrados {
+  flex: 1;
+  padding: 20px;
+  border: 2px solid #7d2300;
+  border-radius: 10px;
+  background-color: #ff1b1b;
+  text-align: center;
+  overflow-y: auto;
+}
+
+.videos img {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}

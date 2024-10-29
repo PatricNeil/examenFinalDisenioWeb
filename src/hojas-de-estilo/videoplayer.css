@@ -1,0 +1,10 @@
+.video-player {
+  flex: 2;
+  padding: 20px;
+  border: 4px solid #031314;
+  border-radius: 10px;
+  margin-right: 10px;
+  background-color: #014487;
+  color: white;
+  text-align: center;
+}
